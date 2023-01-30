@@ -9,10 +9,6 @@
     color: var(--dark);
 }
 
-.gallery_header i {
-    font-size: 20px;
-}
-
 .category {
     display: flex;
     font-size: 14px;
@@ -23,15 +19,15 @@
     font-weight: 700;
 }
 
+.gallery_header i {
+    font-size: 20px;
+}
+
 .gallery {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 30px;
     margin-top: 18px;
-}
-
-.gallery_header i {
-    font-size: 20px;
 }
 
 .gallery li p {
