@@ -15,6 +15,7 @@
 
 .slide_01 .item.item_01 {
     background-image: url('../images/slide_01.jpg');
+    width: 100%;
 }
 .slide_01 .item.item_02 {
     background-image: url('../images/slide_02.jpg');
